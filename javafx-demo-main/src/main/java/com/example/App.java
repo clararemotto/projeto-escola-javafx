@@ -22,7 +22,7 @@ public class App extends Application {
         stage.setScene(scene);
         stage.setMaxWidth(980);
         stage.setMaxHeight(500);
-        stage.setAlwaysOnTop(true);
+        // stage.setAlwaysOnTop(true);
         stage.show();
     }
 
