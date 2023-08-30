@@ -1,4 +1,4 @@
-package com.example;
+package com.example.model;
 
 public record Aluno (String nome, String turma, Integer rm){
     
